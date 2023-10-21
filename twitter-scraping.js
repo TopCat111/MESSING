@@ -84,3 +84,5 @@ async function scrapeAccounts() {
 
 // Call the scrapeTwitterAccounts function to start the scraping process
 scrapeTwitterAccounts();
+// Call the scrapeTwitterAccounts function to start the scraping process
+scrapeTwitterAccounts();
